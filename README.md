@@ -1,4 +1,4 @@
 # Gênese
  primeiro repositório git github
 
-aula ao vivo
+esta linha foi feita remotamente 
